@@ -1,0 +1,157 @@
+<keymap version="1" name="My Default " parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ChangeSplitOrientation">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
+  <action id="EditorCutLineEnd" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift down" />
+    <keyboard-shortcut first-keystroke="shift ctrl j" />
+  </action>
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="EditorLeftWithSelection">
+    <keyboard-shortcut first-keystroke="shift left" />
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+    <keyboard-shortcut first-keystroke="shift meta right" />
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="EditorMoveToPageBottom">
+    <keyboard-shortcut first-keystroke="meta page_down" />
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
+  <action id="EditorMoveToPageBottomWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta page_down" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta h" />
+  </action>
+  <action id="EditorMoveToPageTop">
+    <keyboard-shortcut first-keystroke="meta page_up" />
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="EditorMoveToPageTopWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta page_up" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta l" />
+  </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorNextWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="EditorPageDown">
+    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
+  </action>
+  <action id="EditorPageDownWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_down" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta j" />
+  </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
+  </action>
+  <action id="EditorPageUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift page_up" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta k" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="EditorPreviousWordWithSelection">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+    <keyboard-shortcut first-keystroke="shift ctrl b" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="EditorRightWithSelection">
+    <keyboard-shortcut first-keystroke="shift right" />
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="EditorUpWithSelection">
+    <keyboard-shortcut first-keystroke="shift up" />
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="meta alt k" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift meta alt k" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="meta alt comma" />
+  </action>
+  <action id="Git.Stash">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+  <action id="Git.Unstash">
+    <keyboard-shortcut first-keystroke="shift meta period" />
+  </action>
+  <action id="GotoTypeDeclaration">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+    <mouse-shortcut keystroke="shift meta button1" />
+    <mouse-shortcut keystroke="shift button2" />
+  </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+  </action>
+</keymap>

@@ -1,0 +1,11 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nodebrew/current/bin/node">
+      <version-cache version="9.2.0" last-modified="1510692949000" />
+      <npm-package value="$USER_HOME$/.nodebrew/current/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+</application>
