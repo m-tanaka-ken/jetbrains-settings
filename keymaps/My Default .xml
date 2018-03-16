@@ -32,19 +32,19 @@
   </action>
   <action id="EditorMoveToPageBottom">
     <keyboard-shortcut first-keystroke="meta page_down" />
-    <keyboard-shortcut first-keystroke="ctrl meta h" />
+    <keyboard-shortcut first-keystroke="ctrl meta n" />
   </action>
   <action id="EditorMoveToPageBottomWithSelection">
     <keyboard-shortcut first-keystroke="shift meta page_down" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta h" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta n" />
   </action>
   <action id="EditorMoveToPageTop">
     <keyboard-shortcut first-keystroke="meta page_up" />
-    <keyboard-shortcut first-keystroke="ctrl meta l" />
+    <keyboard-shortcut first-keystroke="ctrl meta i" />
   </action>
   <action id="EditorMoveToPageTopWithSelection">
     <keyboard-shortcut first-keystroke="shift meta page_up" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta l" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta i" />
   </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="alt right" />
@@ -56,19 +56,19 @@
   </action>
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="page_down" />
-    <keyboard-shortcut first-keystroke="ctrl meta j" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
   <action id="EditorPageDownWithSelection">
     <keyboard-shortcut first-keystroke="shift page_down" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta j" />
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="EditorPageUp">
     <keyboard-shortcut first-keystroke="page_up" />
-    <keyboard-shortcut first-keystroke="ctrl meta k" />
+    <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
   <action id="EditorPageUpWithSelection">
     <keyboard-shortcut first-keystroke="shift page_up" />
-    <keyboard-shortcut first-keystroke="shift ctrl meta k" />
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="alt left" />
@@ -105,6 +105,7 @@
     <keyboard-shortcut first-keystroke="shift up" />
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
@@ -129,10 +130,6 @@
     <keyboard-shortcut first-keystroke="ctrl down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
-  <action id="MethodUp">
-    <keyboard-shortcut first-keystroke="ctrl up" />
-    <keyboard-shortcut first-keystroke="ctrl u" />
-  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
@@ -140,6 +137,7 @@
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
+  <action id="OverrideMethods" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift alt tab" />
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
