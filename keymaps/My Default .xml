@@ -5,6 +5,9 @@
   <action id="ChangeSplitOrientation">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="meta space" />
+  </action>
   <action id="EditorCutLineEnd" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
@@ -145,6 +148,9 @@
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta back_slash" />
