@@ -2,6 +2,9 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ActivateFlowToolWindow">
+    <keyboard-shortcut first-keystroke="alt f6" />
+  </action>
   <action id="ChangeSplitOrientation">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
