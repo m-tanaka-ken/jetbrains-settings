@@ -173,4 +173,7 @@
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="shift ctrl alt h" />
   </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
 </keymap>
