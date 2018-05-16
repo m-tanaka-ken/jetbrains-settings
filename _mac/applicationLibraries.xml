@@ -3182,6 +3182,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/bundler/gems/mf_cloud_platform-3459ceae0360/lib" />
       </SOURCES>
     </library>
+    <library name="mf_cloud_platform (v0.0.1@48163e, rbenv: 2.3.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/bundler/gems/mf_cloud_platform-48163e9c790a/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/bundler/gems/mf_cloud_platform-48163e9c790a/lib" />
+      </SOURCES>
+    </library>
     <library name="mf_cloud_platform (v0.0.1@492042, rbenv: 2.3.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.5/lib/ruby/gems/2.3.0/bundler/gems/mf_cloud_platform-492042777660/lib" />
