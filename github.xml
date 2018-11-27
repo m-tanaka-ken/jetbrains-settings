@@ -1,0 +1,10 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="f76bd6c9-1fef-4e50-af7d-bf8125e6caeb" name="masaki.ken.yamada@googlemail.com">
+      <server host="github.com" />
+    </account>
+    <account id="2102e4a5-5467-418f-b039-f82360d37ee7" name="masaki_tanaka@waku-2.com">
+      <server host="ghe.misosiru.io" />
+    </account>
+  </component>
+</application>
