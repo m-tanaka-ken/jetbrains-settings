@@ -1,0 +1,5 @@
+<application>
+  <component name="YeomanSettings">
+    <option name="nodeExePath" value="$USER_HOME$/.nodebrew/current/bin/node" />
+  </component>
+</application>

@@ -1,11 +1,10 @@
 <application>
   <component name="GithubAccounts">
-    <account id="ca7c4aa8-5e2a-4e5f-bfca-4673e793fa14" name="masaki.ken.yamada@googlemail.com">
+    <account id="f76bd6c9-1fef-4e50-af7d-bf8125e6caeb" name="masaki.ken.yamada@googlemail.com">
       <server host="github.com" />
     </account>
-  </component>
-  <component name="GithubSettings">
-    <option name="AUTH_TYPE" value="TOKEN" />
-    <option name="CLONE_GIT_USING_SSH" value="true" />
+    <account id="2102e4a5-5467-418f-b039-f82360d37ee7" name="masaki_tanaka@waku-2.com">
+      <server host="ghe.misosiru.io" />
+    </account>
   </component>
 </application>
