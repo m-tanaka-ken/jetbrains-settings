@@ -3,6 +3,9 @@
     <account id="4ab0261f-1b14-4b70-9bda-07cac6aa2dfe" name="m-tanaka-ken">
       <server host="github.com" />
     </account>
+    <account id="5f1565fd-ca42-43b8-bf7d-e1d049600087" name="masaki_tanaka@waku-2.com">
+      <server host="ghe.misosiru.io" />
+    </account>
   </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
