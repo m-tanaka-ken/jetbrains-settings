@@ -3,7 +3,7 @@
     <property name="created">2019-03-28T10:43:56</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-03-29T17:00:30</property>
+    <property name="modified">2019-06-13T00:02:46</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <colors>
@@ -17,7 +17,6 @@
     <option name="DOCUMENTATION_COLOR" value="2c2c3b" />
     <option name="ERROR_HINT" value="802d43" />
     <option name="FILESTATUS_ADDED" value="76b366" />
-    <option name="FILESTATUS_COPIED" value="629755" />
     <option name="FILESTATUS_DELETED" value="7a7a99" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="7a7a99" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="c78ba1" />
@@ -25074,7 +25073,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
