@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="m-tanaka-ken" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.dev-internal.crmstyle.com" />
+          <option name="userName" value="tanaka.masaki" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
