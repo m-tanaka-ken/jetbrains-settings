@@ -1,7 +1,7 @@
 <toolSet name="External Tools">
-  <tool name="Prettier" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="Prettier" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="$ProjectFileDir$/vue-book/08/kanban-app/node_modules/.bin/prettier" />
+      <option name="COMMAND" value="$ProjectFileDir$/node_modules/.bin/prettier" />
       <option name="PARAMETERS" value="--write $FilePathRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
