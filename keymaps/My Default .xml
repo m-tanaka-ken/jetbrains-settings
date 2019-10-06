@@ -8,6 +8,9 @@
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl meta 9" />
+  </action>
   <action id="ChangeSplitOrientation">
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
