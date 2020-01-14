@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="YaboPy1mvr1DMSA3xRrh" />
+          <option name="apiUrl" value="http://gitlab.dev-internal.crmstyle.com/" />
+          <option name="repositoryUrl" value="gitlab.dev-internal.crmstyle.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>

@@ -133,7 +133,7 @@
   <action id="Git.Unstash">
     <keyboard-shortcut first-keystroke="shift meta period" />
   </action>
-  <action id="Github.View.Pull.Request">
+  <action id="Gitlab.Create.Merge.Request.List">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="GotoTypeDeclaration">
