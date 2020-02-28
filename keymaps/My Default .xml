@@ -141,6 +141,9 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="shift button2" />
   </action>
+  <action id="IlluminatedCloud.SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -173,6 +176,7 @@
   <action id="RunConfiguration">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
+  <action id="SaveAll" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
