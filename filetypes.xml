@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".textlintrc" type="JSON" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="hoge" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern="submodule-sparse-checkout" type="PLAIN_TEXT" />
