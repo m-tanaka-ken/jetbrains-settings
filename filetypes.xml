@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".env.production" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileDev" type="AUTO_DETECTED" />
       <mapping pattern=".textlintrc" type="JSON" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
