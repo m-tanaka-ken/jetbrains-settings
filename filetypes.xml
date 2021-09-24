@@ -4,11 +4,11 @@
       <mapping pattern=".env.production" type="AUTO_DETECTED" />
       <mapping pattern="DockerfileDev" type="AUTO_DETECTED" />
       <mapping pattern=".textlintrc" type="JSON" />
-      <mapping pattern="hoge" type="PLAIN_TEXT" />
-      <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern=".bablerc" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern="hoge" type="PLAIN_TEXT" />
       <mapping pattern="submodule-sparse-checkout" type="PLAIN_TEXT" />
+      <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping pattern="columns" type="TypeScript" />
       <mapping ext="conf" type="YAML" />
