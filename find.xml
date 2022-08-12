@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="すべての場所" />
-    <option name="defaultScopeName" value="すべての場所" />
+    <option name="customScope" value="プロジェクト 'ndb-ui'" />
+    <option name="defaultScopeName" value="プロジェクト 'ndb-ui'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="すべての場所" />
+    <option name="SEARCH_SCOPE" value="プロジェクト 'ndb-ui'" />
   </component>
 </application>
