@@ -24,6 +24,7 @@
       <removed_mapping ext="sh" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="tsx" approved="true" type="ReactVFC" />
+      <removed_mapping pattern=".prettierignore" approved="true" type="Prettier File" />
     </extensionMap>
   </component>
 </application>
