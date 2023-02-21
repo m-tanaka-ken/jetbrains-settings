@@ -125,6 +125,7 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
+  <action id="Git.Commit.And.Push.Executor" />
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="shift meta alt k" />
   </action>
@@ -146,6 +147,7 @@
     <mouse-shortcut keystroke="shift meta button1" />
     <mouse-shortcut keystroke="shift button2" />
   </action>
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="IlluminatedCloud.SaveAll">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
